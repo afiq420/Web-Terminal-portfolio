@@ -52,7 +52,7 @@ textarea {
 }
 
 #liner::before {
-    content: "//Root/";
+    content: "\\\\Root\\";
     color: #ffffff;
 }
 
